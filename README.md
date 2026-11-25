@@ -1,3 +1,6 @@
-# lumi-videos
+# Lumi Upload
 
-Temporary public hosting for uploads to YouTube. Files are removed after upload.
+Private tool that uploads the videos of the kids channels **Lumis Wunderwelt** (German) and
+**Lumi's Wonder World** (English) to YouTube via the YouTube API Services.
+
+- [Datenschutzerklärung / Privacy Policy](PRIVACY.md)
