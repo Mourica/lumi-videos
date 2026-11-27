@@ -1,11 +1,11 @@
 # Datenschutzerklärung – Lumi Upload / Privacy Policy
 
-*Stand / Last updated: 25.11.2026*
+*Stand / Last updated: 27.11.2026*
 
 ## Deutsch
 
-**Lumi Upload** ist ein privates Werkzeug des Betreibers der YouTube-Kanäle „Lumis Wunderwelt“ und
-„Lumi's Wonder World“. Es lädt ausschließlich eigene Videos auf diese eigenen Kanäle hoch.
+**Lumi Upload** ist ein privates Werkzeug des Betreibers der YouTube-Kanäle „Faktenfunke“ und
+„CurioSpark“. Es lädt ausschließlich eigene Videos auf diese eigenen Kanäle hoch.
 
 - **Genutzte Dienste:** Lumi Upload verwendet die YouTube API Services (YouTube Data API v3).
   Es gelten die [YouTube-Nutzungsbedingungen](https://www.youtube.com/t/terms) und die
@@ -20,8 +20,8 @@
 
 ## English
 
-**Lumi Upload** is a private tool of the owner of the YouTube channels "Lumis Wunderwelt" and
-"Lumi's Wonder World". It only uploads the owner's own videos to these own channels.
+**Lumi Upload** is a private tool of the owner of the YouTube channels "Faktenfunke" and
+"CurioSpark". It only uploads the owner's own videos to these own channels.
 
 - **Services used:** Lumi Upload uses the YouTube API Services (YouTube Data API v3).
   The [YouTube Terms of Service](https://www.youtube.com/t/terms) and the
